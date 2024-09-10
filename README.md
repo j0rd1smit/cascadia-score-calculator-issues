@@ -8,6 +8,8 @@ While the project is not open source yet, you can report issues or suggestions [
 The Cascadia Score Calculator is a computer vision-based application designed to automatically calculate game scores from an image of the game board.
 You can access the application at [cascadia.jordismit.com](https://cascadia.jordismit.com).
 
+[![demo video](https://img.youtube.com/vi/-_Wsx1XvJgQ/0.jpg)](https://www.youtube.com/watch?v=-_Wsx1XvJgQ)
+
 ### How It Works
 
 1. **Capture Image**: Take a picture of the game board.
@@ -36,3 +38,4 @@ You can adjust the number of players and scoring cards without re-uploading and 
 If the computer vision model makes a mistake, users can manually adjust scores using the +/- buttons.
 
 ![](images/score-overview.jpg)
+
